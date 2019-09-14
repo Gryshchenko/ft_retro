@@ -15,6 +15,8 @@ much like in R-Type for example)
 7. Game entities occupy one ’square’ of the map only.
 8. Frame-based timing
 
+#### To try run in your terminal ./ft_retro
+
 ## Code
 
 1. C++
